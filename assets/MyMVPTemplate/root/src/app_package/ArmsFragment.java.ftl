@@ -1,6 +1,6 @@
 package ${fragmentPackageName};
 
-import com.jacky.option.architecture.base.BaseSupportFragment;
+import com.lsj.option.architecture.base.BaseSupportFragment;
 
 import ${contractPackageName}.${pageName}Contract;
 import ${presenterPackageName}.${pageName}Presenter;

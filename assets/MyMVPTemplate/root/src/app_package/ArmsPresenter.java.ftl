@@ -1,6 +1,6 @@
 package ${presenterPackageName};
 
-import com.jacky.option.framework.mvp.BasePresenter;
+import com.lsj.option.framework.mvp.BasePresenter;
 import ${contractPackageName}.${pageName}Contract;
 
 <#import "root://activities/MyMVPTemplate/globals.xml.ftl" as gb>

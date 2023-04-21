@@ -1,7 +1,7 @@
 package ${contractPackageName};
 
-import com.jacky.option.framework.mvp.IPresenter;
-import com.jacky.option.framework.mvp.IView;
+import com.lsj.option.framework.mvp.IPresenter;
+import com.lsj.option.framework.mvp.IView;
 
 <#import "root://activities/MyMVPTemplate/globals.xml.ftl" as gb>
 

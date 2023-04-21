@@ -14,7 +14,7 @@
    根据项目需求，重构自己项目的基类
 
     app
-       com.jacky.option.architecture:
+       com.lsj.option.architecture:
             base：项目基类
                 BaseSupportActivity：项目activity的基类
                 BaseSupportFragment：项目fragment的基类

@@ -3,8 +3,8 @@ package ${ativityPackageName};
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-import com.jacky.option.architecture.base.BaseSupportActivity;
-import com.jacky.option.architecture.R;
+import com.lsj.option.architecture.base.BaseSupportActivity;
+import com.lsj.option.architecture.R;
 
 
 import ${contractPackageName}.${pageName}Contract;
